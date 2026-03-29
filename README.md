@@ -29,7 +29,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/Brayaking/Traductor/onex.git`
+* `git clone https://github.com/Brayaking/Traductor`
 * `cd traductor`
 * `chmod +x onex/install`
 
